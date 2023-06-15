@@ -9,7 +9,7 @@ nix flake init -t github:z-infra/templates#infra
 ```
 ### Cli
 Folder where you put your cli commands.  
-As an example you have the script [cli/main](infra/cli/main)  
+As an example you have the script [cli/infra/main](infra/cli/infra/main)  
 
 ### Nixpkgs
 Folder where you put custom packages.  
