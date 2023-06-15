@@ -3,7 +3,7 @@
 Flake templates 
 
 ## Infra
-Add a simple schema of infra deploy template. [infra](infra)
+Add a simple schema of [infra](infra) deploy template. 
 ```bash
 nix flake init -t github:z-infra/templates#infra
 ```
