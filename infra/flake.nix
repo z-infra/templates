@@ -1,5 +1,5 @@
 {
-  description = "Mongodb Deploy";
+  description = "Infra Deploy";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/7f72645b8e69";
